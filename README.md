@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Reyproject
-- 👀 I’m interested in anime and gaming, as well as doing art, producing music, and someday maybe even become a VTuber?
-- 🌱 I’m currently learning python!
-- 💞️ I’m looking to collaborate on people that I idolize!
-- 📫 How to reach me barahinozuka@gmail.com!
+- 👋 Hi, I’m Jeffrey Moralla
+- 👀 I’m interested in anime and gaming, as well as doing art!
+- 🌱 I’m currently learning Flutter!
+- 💞️ I’m looking to collaborate with people!
+- 📫 You can reach me at jeffreymoralla@gmail.com!
 
 <!---
 Reyproject/Reyproject is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
